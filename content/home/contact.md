@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: zhaoz233@mcmaster.ca
-  phone: 365 888 2336
+  phone: (+1)3658882336
   address:
     street: Information Technology Building
     city: Hamilton
