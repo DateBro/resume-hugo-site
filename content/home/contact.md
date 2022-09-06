@@ -34,6 +34,10 @@ content:
     postcode: 'L8S 1C7'
     country: Canada
     country_code: CA
+  # google maps
+  coordinates: 
+    latitude: ‘43.2587’
+    longitude: ’-79.9207‘
 
 design:
   columns: '2'

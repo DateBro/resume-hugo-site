@@ -27,10 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Spring Boot
+      tag: SpringBoot
+    - name: Spring Cloud
+      tag: SpringCloud
+    - name: Fullstack
+      tag: Fullstack
+    - name: Back-end
+      tag: Back-end
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
