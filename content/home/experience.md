@@ -1,50 +1,41 @@
----
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
++++
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 40
-
-title: Experience
-subtitle:
+title = "Experience"
+subtitle = ""
 
 # Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
 
 # Experiences.
-#   Add/remove as many `experience` items below as you like.
+#   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Software Developement Engineer"
+  company = "Beijing Sankuai Online Technology Co., Ltd."
+  company_url = "https://about.meituan.com/home"
+  location = "Beijing, China"
+  date_start = "2021-07-11"
+  date_end = "2022-07-29"
+  description = """
+  — **Development of marketing and customer management services for offline acquring.** 
+  """
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
-design:
-  columns: '2'
----
+[[experience]]
+  title = "Research Assistant"
+  company = "Human Computer Interaction and Virtual Reality Lab"
+  company_url = "http://vr.sdu.edu.cn/index.htm"
+  location = "Jinan, China"
+  date_start = "2020-09-01"
+  date_end = "2021-05-13"
+  description = """
+  — **Development of Online Judge system to automatically grade students' homework for the Algorithms course.**
+  """
++++
