@@ -1,77 +1,75 @@
 ---
 # Display name
-title: Nelson Bighetti
+name: Zhikang(Melo) Feng
+
+# Username (this should match the folder name)
+authors:
+- admin
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
+# Role/position
+role: Master student at Department of Computing and Software
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+- name: McMaster University
+  url: "https://www.eng.mcmaster.ca/cas"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Life has a value only when it has something valuable as its object.
 
-# Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Web Development
+- Cloud Computing
+- Software Development
 
-# Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: M.Eng of Computing&Software
+    institution: McMaster University, Canada
+    year: 2022-2024
+  - course: B.Eng of Computer Science
+    institution: Shandong University, China
+    year: 2017-2021
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: envelope
+  icon_pack: fas
+  link: 'zhaoz233@mcmaster.ca'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/zhiyong-zhao/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/DateBro
+#- icon: weixin
+#  icon_pack: fab
+#  link: https://github.com/Changed-CNN
+#- icon: facebook
+#  icon_pack: fab
+#  link: https://github.com/Changed-CNN
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: "zhaoz233@mcmaster.ca"
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Researchers
+- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a 1st-year CS Master student at McMaster University, Canada and received my CS Bachelor's degree from Shandong University, China. Currently I am looking for a SDE/SWE coop/internship position starting from Summer/May 2023.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+As a CS student exploring the world of computer science and engineering for over five years, I have solid foundation of theoretical knowledge as well as strong object-oriented programming skills. Diverse experience in research and industry brought me a broader understanding of engineering, along with strong analytical, problem-solving, and teamwork abilities. Through hands-on projects, I found transferring innovative ideas and solutions to real life with codes is truly enjoyable. I am always keeping fresh and passionate about new technology and knowledge, and as a fast learner, I can grasp them quickly and leverage them effectively into work processes. In addition, planning goals well in advance and organizing tasks in an orderly way make me a goal-oriented performer with time management sense.
